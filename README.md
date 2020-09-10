@@ -10,7 +10,7 @@
 
 <h1 align="center">Beagle Sample</h1>
   
-**Welcome!!!** Here you can take a closer look at how a server-driven flow its implemented using beagle
+**Welcome!!!** Here you can take a closer look at how a server-driven flow its implemented using beagle - 
     
 <h2 align="center">Demo</h2>
 <p align="center">
